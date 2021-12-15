@@ -1,19 +1,11 @@
-# Basic Sample Hardhat Project
+# Blockchain vote app
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+App para empezar en el mundo blockchain en la raiz se encuentra el contrato y en la carpeta de front esta la app la cual esta desarrollada con vue
 
-Try running some of the following tasks:
+## Contrato en ropsten
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+https://ropsten.etherscan.io/address/0xD337C7ee04D96F6fd4b2c8a12f0793aFf4e3f8D7
 
-Contract adresss for interact
+## Front de la app
 
-https://ropsten.etherscan.io/address/0x906a4b35ba96a5e720f8953613c296f57a238164#writeContract
+https://voteapp-blockchain.surge.sh/
